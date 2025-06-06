@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2025-06-06",
+        "category": "Food",
+        "description": "Jollibee",
+        "amount": 200.0
+    },
+    {
+        "date": "2025-06-06",
+        "category": "Transport",
+        "description": "Univ to Home, vice versa",
+        "amount": 100.0
+    },
+    {
+        "date": "2025-6-6",
+        "category": "Utilities",
+        "description": "Meralco",
+        "amount": 3700.0
+    },
+    {
+        "date": "2025-6-6",
+        "category": "Food",
+        "description": "Snack",
+        "amount": 169.0
+    },
+    {
+        "date": "2025-6-6",
+        "category": "Entertainment",
+        "description": "Netflix",
+        "amount": 449.0
+    },
+    {
+        "date": "2025-06-06",
+        "category": "Food",
+        "description": "Pizza",
+        "amount": 200.0
+    }
+]
