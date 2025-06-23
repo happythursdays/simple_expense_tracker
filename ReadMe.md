@@ -45,6 +45,12 @@ simple_expense_tracker/
 
 ---
 
+🛠️ Built with intent, impatience, and the need to make things work.
+
+This project is part of my portfolio as I explore data-centric applications and refine my workflow. It's not just code — it's how I think, build, and debug through real-life scenarios.
+
+---
+
 ## Author | Jamie Nicole Benwick
 - jamienicolevillelabenwick@gmail.com
 - Las Piñas, Metro Manila
